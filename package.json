@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/coordinatesaresea",
+  "version": "1.0.0",
+  "description": "Coordinates are Sea is a simple tool for checking if coordinates are in the sea. It returns if the coordinates are in the sea or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/coordinatesaresea-API.git"
+  },
+  "keywords": [
+    "coordinates are sea"," coordinates are sea api"," coordinates are sea tool"," coordinates are sea software"," coordinates are sea service"," coordinates are sea library"," coordinates are sea sdk"," coordinates are sea code"," coordinates are sea script"," coordinates are sea program"," coordinates are sea application"," coordinates are sea app"," coordinates are sea utility"," coordinates are sea helper"," coordinates are sea helper tool"," coordinates are sea helper software"," coordinates are sea helper service"," coordinates are sea helper library"," coordinates are sea helper sdk"," coordinates are sea helper code"," coordinates are sea helper script"," coordinates are sea helper program"," coordinates are sea helper application"," coordinates are sea helper app"," coordinates are sea helper utility"," coordinates are sea helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/coordinatesaresea-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/coordinatesaresea-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
