@@ -75,7 +75,8 @@ api.execute(query, function (error, data) {
     "latitude": 37.7749,
     "longitude": -122.4194,
     "isSea": false
-  }
+  },
+  "code": 200
 }
 ```
 
